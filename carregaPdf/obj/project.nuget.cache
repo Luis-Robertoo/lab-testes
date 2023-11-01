@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bKnk8TRSzbfz0UgZpStbwwdUguK84exOHkY9Dc3cBeoyl8UYWOpPYKkUtQqer7UFfELIE10V6JnA+xDC8uyCg==",
+  "dgSpecHash": "FO6m9ivdPedNAcZ5X46zU3hgvNMZpdtBdorW8pbInitYqq503wS+f/3l6uolAwVtnCrW47uEPKC7p5vCFej9Qg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\carregaPdf\\carregaPdf.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\carregaPdf\\carregaPdf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\pdfsharp\\1.50.5147\\pdfsharp.1.50.5147.nupkg.sha512"
   ],

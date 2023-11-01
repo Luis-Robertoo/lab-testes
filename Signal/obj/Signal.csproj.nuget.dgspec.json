@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\Signal.csproj": {}
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\Signal.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\Signal.csproj": {
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\Signal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\Signal.csproj",
+        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\Signal.csproj",
         "projectName": "Signal",
-        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\Signal.csproj",
+        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\Signal.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\obj\\",
+        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

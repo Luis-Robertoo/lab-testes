@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviarDocumentos\\EnviarDocumentos.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviarDocumentos\\EnviarDocumentos.csproj",
       "projectName": "EnviarDocumentos",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviarDocumentos\\EnviarDocumentos.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviarDocumentos\\EnviarDocumentos.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviarDocumentos\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviarDocumentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

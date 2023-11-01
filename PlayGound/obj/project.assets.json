@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\PlayGound\\PlayGound.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\PlayGound\\PlayGound.csproj",
       "projectName": "PlayGound",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\PlayGound\\PlayGound.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\PlayGound\\PlayGound.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\PlayGound\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\PlayGound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

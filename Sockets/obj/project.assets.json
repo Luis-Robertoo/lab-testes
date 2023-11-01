@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Sockets\\Sockets.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Sockets\\Sockets.csproj",
       "projectName": "Sockets",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Sockets\\Sockets.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Sockets\\Sockets.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Sockets\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Sockets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

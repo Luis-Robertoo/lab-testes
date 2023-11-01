@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/q1k25p47YIwUqVVzOdirXnA7eAPE7sBOvsHBU/NAWDR4fNnFRi2cTBznn7v8i9mhr7mRx8C9eg944vMt3Fvqg==",
+  "dgSpecHash": "xMFOq1FB+l8DJQzx9A3Ww6aaNVK6INXxwgsqNd3x+gxLZcF1DgCaPpvaTsnt1gZJ5g9CqD+DZOkWip2ZZjyZFQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Signal\\Signal.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Signal\\Signal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.9\\microsoft.aspnetcore.connections.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

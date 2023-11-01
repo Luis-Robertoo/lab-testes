@@ -22,7 +22,22 @@ static async Task BaixarMusica(HttpClient httpClient, ObtemArquivos obtemArquivo
     stopWatch.Start();
 
     var paginaPrincipal = await obtemArquivos.ObtemPaginaPrincipal(httpClient, linkMusica);
-    if (paginaPrincipal.IndexOf("\"title\":\"") == -1 || paginaPrincipal.IndexOf("stream/progressive") == -1) return;
+
+    if (paginaPrincipal.IndexOf("\"title\":\"") == -1)
+    {
+        Console.WriteLine("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
+        Console.WriteLine($"                     MÚSICA NÃO ENCONTRADA                                  ");
+        Console.WriteLine("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
+        return;
+    }
+
+    if (paginaPrincipal.IndexOf("stream/progressive") == -1)
+    {
+        Console.WriteLine("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
+        Console.WriteLine($"               TIPO DE ARQUIVO NÃO SUPORTADO                                ");
+        Console.WriteLine("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
+        return;
+    }
 
     var titulo = obtemArquivos.ObtemTitulo(paginaPrincipal);
     Console.WriteLine("-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");

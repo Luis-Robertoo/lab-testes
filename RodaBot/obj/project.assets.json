@@ -511,11 +511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\RodaBot\\RodaBot.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\RodaBot\\RodaBot.csproj",
       "projectName": "RodaBot",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\RodaBot\\RodaBot.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\RodaBot\\RodaBot.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\RodaBot\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\RodaBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -533,8 +533,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\ClientSoundCloud.csproj": {
-              "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\ClientSoundCloud.csproj"
+            "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\ClientSoundCloud.csproj": {
+              "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\ClientSoundCloud.csproj"
             }
           }
         }

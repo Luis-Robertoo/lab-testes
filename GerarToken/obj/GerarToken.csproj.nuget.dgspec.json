@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\GerarToken.csproj": {}
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\GerarToken.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\GerarToken.csproj": {
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\GerarToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\GerarToken.csproj",
+        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\GerarToken.csproj",
         "projectName": "GerarToken",
-        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\GerarToken.csproj",
+        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\GerarToken.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\obj\\",
+        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uOfzgm7CtedFcPcm3SAfG7W+owOfHi+LHW7mah3zNsicWzV/RoPbYlyz9YMRR4zYe65Qbd/X/Fh2IvAD8PWd5w==",
+  "dgSpecHash": "wg9JvzOQ3SD5zgagB8s5fQEfnitolFrVs8rxcx+FAl/yY3KuGM24cgrc6hGysLxVaKODz/LLUmST34EfoSbcBA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\GerarToken\\GerarToken.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\GerarToken\\GerarToken.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

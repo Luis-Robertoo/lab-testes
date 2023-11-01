@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\fileToBinary\\fileToBinary.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\fileToBinary\\fileToBinary.csproj",
       "projectName": "fileToBinary",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\fileToBinary\\fileToBinary.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\fileToBinary\\fileToBinary.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\fileToBinary\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\fileToBinary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

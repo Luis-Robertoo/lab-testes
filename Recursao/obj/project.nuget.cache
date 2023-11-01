@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1tvcgoAzlX4bWIO84z0dZkWozQuLgZ1zlBFooxpZC1Xl2O7/IGLinDRMfiB/BLzoryyxzc1qqDvWonxrrfybQ==",
+  "dgSpecHash": "k8a+xGJ5PfCALCSiKL9IRFuNup6QP09n547XMgUdE5o4M4frC4V71qLSvVTVIALpSf2zlN/LzBzTEM/fHt0K5Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\Recursao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

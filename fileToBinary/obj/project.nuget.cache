@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+suNUDzdqSJWSmrT9eL19AYm/BFRWXHW+W+PwIXTNTqvLvyy375KVggS1z2PRIm1rmsXC9DX9r91a3uPFjN5w==",
+  "dgSpecHash": "2VmeMi3bYdzh1tBbmLd8GjqSWnLUQGCn1UIoJV1NFsjQHQJvC9XPZcQ309TIcdp0KDxy18j8OhLZfu/yIOAj9w==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\fileToBinary\\fileToBinary.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\fileToBinary\\fileToBinary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

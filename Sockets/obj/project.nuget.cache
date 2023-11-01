@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0xFGkiWAmU3+KvuAXr9oU2gL5bRfPj0fY//KM4G1BU+NmC50Ml1DqLliJb3w3sONvbUFO7z8Fa2ux440ZGKcAg==",
+  "dgSpecHash": "yEWzz2Fl7fi9nbw8vjiZWSnqGpJ/vRuQ6UmVx4AXuPgzk/Tcrcaxun7GzTrwugAZDUVivdVY8wJagSJOh++Gtw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Sockets\\Sockets.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Sockets\\Sockets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

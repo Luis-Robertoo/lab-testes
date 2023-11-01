@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAy75prEPP7kejq47LddQR8QOwHHr5e3EQ1G+yM8M0d9G1vllWvufUTafC71dFgXE6KgUGs1RcT+t5uqqz+rJQ==",
+  "dgSpecHash": "0O9ujXRddJ3sfmgE+ThlPfoz2bbDDXVt/Mpnmr2Xf1ixlPIkdvcQiJB3oU1+RRyyHl26u/ArHZm0uVP5TUH6ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

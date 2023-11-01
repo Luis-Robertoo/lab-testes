@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj": {}
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\Recursao.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj": {
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\Recursao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj",
+        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\Recursao.csproj",
         "projectName": "Recursao",
-        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj",
+        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\Recursao.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\obj\\",
+        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\Recursao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

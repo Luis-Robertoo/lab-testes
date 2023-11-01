@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6LvmyNl8+2jAoxASRLK1aToNOGoKk8IJt8b/J44VfvtxiA3cBZAEwReSu4Nn8kFD+Y4usXarFv7YExEoG78I9Q==",
+  "dgSpecHash": "qIWPPIjADHFAe2UgYOGA+B0hVSooZUgUh647mHsUtZAmmn3D0LRgBYB5p4/LOcj52xfh/vBgZQW5vIpJPTTcoQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\ClientSoundCloud.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\ClientSoundCloud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

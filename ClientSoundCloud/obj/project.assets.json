@@ -493,11 +493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\ClientSoundCloud.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\ClientSoundCloud.csproj",
       "projectName": "ClientSoundCloud",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\ClientSoundCloud.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\ClientSoundCloud.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\ClientSoundCloud\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\ClientSoundCloud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

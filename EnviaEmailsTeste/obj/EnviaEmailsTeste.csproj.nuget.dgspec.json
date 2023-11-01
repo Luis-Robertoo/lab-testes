@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj": {}
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj": {
+    "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
+        "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
         "projectName": "EnviaEmailsTeste",
-        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
+        "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\EnviaEmailsTeste.csproj",
         "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\EnviaEmailsTeste\\obj\\",
+        "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\EnviaEmailsTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",

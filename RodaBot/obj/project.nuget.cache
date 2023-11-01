@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tw5UDBhHJN9JKRjgpJmvqYb92nkxtgEjbphpqEYOck7Y15mfVeRx/Us14QAKvh0qav921nVoDaNicb+DWdXE6g==",
+  "dgSpecHash": "tFb8YUYW3EqVJJ0VVvTefMAcZYm3tL6CR3k/KFx1E3/E4mUnYMfFSIrG2gPwM8c7TTwaWeVdv39ULFNPhwpfSA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\RodaBot\\RodaBot.csproj",
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\RodaBot\\RodaBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Luis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\carregaPdf\\carregaPdf.csproj",
+      "projectUniqueName": "C:\\Projetos\\Luis\\CSHARP\\salvo\\carregaPdf\\carregaPdf.csproj",
       "projectName": "carregaPdf",
-      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\carregaPdf\\carregaPdf.csproj",
+      "projectPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\carregaPdf\\carregaPdf.csproj",
       "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\carregaPdf\\obj\\",
+      "outputPath": "C:\\Projetos\\Luis\\CSHARP\\salvo\\carregaPdf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
