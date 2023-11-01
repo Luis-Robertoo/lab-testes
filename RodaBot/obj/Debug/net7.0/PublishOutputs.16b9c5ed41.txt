@@ -1,0 +1,16 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\RodaBot.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\libmp3lame.32.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\libmp3lame.64.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\RodaBot.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\RodaBot.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\RodaBot.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\RodaBot.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.Asio.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.Core.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.Lame.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.Midi.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.Wasapi.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\NAudio.WinMM.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\ClientSoundCloud.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\RodaBot\bin\Debug\net7.0\publish\ClientSoundCloud.pdb

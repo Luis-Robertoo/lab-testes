@@ -1,0 +1,17 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Recursao.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Recursao.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Recursao.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Recursao.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Recursao.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.csproj.AssemblyReference.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.AssemblyInfoInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.AssemblyInfo.cs
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.csproj.CoreCompileInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.csproj.CopyComplete
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\refint\Recursao.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\Recursao.genruntimeconfig.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Recursao\obj\Debug\net6.0\ref\Recursao.dll

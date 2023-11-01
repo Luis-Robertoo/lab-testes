@@ -1,0 +1,15 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\bin\Debug\net6.0\EnviaEmailsTeste.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\bin\Debug\net6.0\EnviaEmailsTeste.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\bin\Debug\net6.0\EnviaEmailsTeste.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\bin\Debug\net6.0\EnviaEmailsTeste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\bin\Debug\net6.0\EnviaEmailsTeste.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.csproj.AssemblyReference.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.AssemblyInfoInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.AssemblyInfo.cs
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.csproj.CoreCompileInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\refint\EnviaEmailsTeste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\EnviaEmailsTeste.genruntimeconfig.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\EnviaEmailsTeste\obj\Debug\net6.0\ref\EnviaEmailsTeste.dll

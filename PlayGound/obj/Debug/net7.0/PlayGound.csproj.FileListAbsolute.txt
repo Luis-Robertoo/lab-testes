@@ -1,0 +1,15 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\bin\Debug\net7.0\PlayGound.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\bin\Debug\net7.0\PlayGound.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\bin\Debug\net7.0\PlayGound.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\bin\Debug\net7.0\PlayGound.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\bin\Debug\net7.0\PlayGound.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.csproj.AssemblyReference.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.AssemblyInfoInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.AssemblyInfo.cs
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.csproj.CoreCompileInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\refint\PlayGound.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\PlayGound.genruntimeconfig.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\PlayGound\obj\Debug\net7.0\ref\PlayGound.dll

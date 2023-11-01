@@ -1,0 +1,15 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\bin\Debug\net6.0\fileToBinary.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\bin\Debug\net6.0\fileToBinary.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\bin\Debug\net6.0\fileToBinary.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\bin\Debug\net6.0\fileToBinary.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\bin\Debug\net6.0\fileToBinary.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.csproj.AssemblyReference.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.AssemblyInfoInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.AssemblyInfo.cs
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.csproj.CoreCompileInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\refint\fileToBinary.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\fileToBinary.genruntimeconfig.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\fileToBinary\obj\Debug\net6.0\ref\fileToBinary.dll

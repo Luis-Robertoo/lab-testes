@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1tvcgoAzlX4bWIO84z0dZkWozQuLgZ1zlBFooxpZC1Xl2O7/IGLinDRMfiB/BLzoryyxzc1qqDvWonxrrfybQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Luis\\CSHARP\\TestarAsParadas\\Recursao\\Recursao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

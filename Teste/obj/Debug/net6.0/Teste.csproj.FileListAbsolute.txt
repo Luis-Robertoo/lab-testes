@@ -1,0 +1,16 @@
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\Teste.exe
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\Teste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\obj\Debug\net6.0\ref\Teste.dll
+C:\Projetos\Luis\CSHARP\TestarAsParadas\Teste\bin\Debug\net6.0\.env
